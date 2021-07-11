@@ -1324,3 +1324,9 @@ form label {
   margin-right: auto;
 }
 
+@media screen and (max-width: 768px) {
+   #gtco-about .img-shadowe img{
+    height : 200px;
+    width: 300px;
+  }
+}
